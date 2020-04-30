@@ -1,0 +1,3 @@
+Text Recognized is :  . MOvE to stop Mr Gaitskell from
+Character Error Rate: 0.12121212121212122
+Word Error Rate: 1.0

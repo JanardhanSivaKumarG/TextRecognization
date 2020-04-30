@@ -1,0 +1,3 @@
+Text Recognized is :  Griffithls A Mp for Mancheder Erchange
+Character Error Rate: 0.1568627450980392
+Word Error Rate: 0.94

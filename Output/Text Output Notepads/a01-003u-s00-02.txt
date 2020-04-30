@@ -1,0 +1,3 @@
+Text Recognized is :  Me , are wkely to twn down the Foot
+Character Error Rate: 0.1565934065934066
+Word Error Rate: 0.9300699300699301
