@@ -1,0 +1,3 @@
+Text Recognized is :  wuch would appear to " prop uo " an out
+Character Error Rate: 0.16420118343195267
+Word Error Rate: 0.9212007504690432

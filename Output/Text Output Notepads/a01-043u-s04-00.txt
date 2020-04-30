@@ -1,0 +1,3 @@
+Text Recognized is :  One . of no tatko will
+Character Error Rate: 0.20595457335788828
+Word Error Rate: 0.9388391118036619

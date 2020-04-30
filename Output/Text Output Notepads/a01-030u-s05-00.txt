@@ -1,0 +1,3 @@
+Text Recognized is :  But the final
+Character Error Rate: 0.20021528525296017
+Word Error Rate: 0.9339708561020036

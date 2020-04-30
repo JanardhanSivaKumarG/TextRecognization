@@ -1,0 +1,3 @@
+Text Recognized is :  The conference . we . a meet
+Character Error Rate: 0.19970631424375918
+Word Error Rate: 0.9329192546583851

@@ -1,0 +1,3 @@
+Text Recognized is :  forward nomnees
+Character Error Rate: 0.17164179104477612
+Word Error Rate: 0.9294117647058824

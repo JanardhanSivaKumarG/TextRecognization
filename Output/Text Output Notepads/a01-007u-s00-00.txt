@@ -1,0 +1,3 @@
+Text Recognized is :  Since 19e 1s Labor life Feew and
+Character Error Rate: 0.17066290550070523
+Word Error Rate: 0.9284436493738819

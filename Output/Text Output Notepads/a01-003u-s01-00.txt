@@ -1,0 +1,3 @@
+Text Recognized is :  ts - Foots me will
+Character Error Rate: 0.1806930693069307
+Word Error Rate: 0.9337539432176656

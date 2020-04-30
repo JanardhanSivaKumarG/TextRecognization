@@ -1,0 +1,3 @@
+Text Recognized is :  of the rouse of Lordss but while it remans
+Character Error Rate: 0.1632896305125149
+Word Error Rate: 0.9304084720121029

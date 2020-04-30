@@ -1,0 +1,3 @@
+Text Recognized is :  caurse of action
+Character Error Rate: 0.17956903431763768
+Word Error Rate: 0.9312436804853387

@@ -1,0 +1,3 @@
+Text Recognized is :  Afican Federation went to chequers at
+Character Error Rate: 0.19759036144578312
+Word Error Rate: 0.9325557809330629

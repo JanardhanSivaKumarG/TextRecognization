@@ -1,0 +1,3 @@
+Text Recognized is :  opposed to Africamns getlng and elected
+Character Error Rate: 0.1780821917808219
+Word Error Rate: 0.9298076923076923

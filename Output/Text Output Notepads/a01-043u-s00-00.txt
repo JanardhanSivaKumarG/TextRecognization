@@ -1,0 +1,3 @@
+Text Recognized is :  Iformal talks at Lancaster Hase will
+Character Error Rate: 0.20046388336646787
+Word Error Rate: 0.9336691855583543

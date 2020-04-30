@@ -1,0 +1,3 @@
+Text Recognized is :  , Government and State hausing
+Character Error Rate: 0.20516671673175127
+Word Error Rate: 0.9405487804878049

@@ -1,0 +1,3 @@
+Text Recognized is :  the - tedeal , Goven " ment
+Character Error Rate: 0.20086548864046158
+Word Error Rate: 0.934096109839817

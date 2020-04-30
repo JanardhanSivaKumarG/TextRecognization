@@ -1,0 +1,3 @@
+Text Recognized is :  ,o sAIN MCLEOD the colomal Secretary
+Character Error Rate: 0.20065635255508674
+Word Error Rate: 0.9352346999405823

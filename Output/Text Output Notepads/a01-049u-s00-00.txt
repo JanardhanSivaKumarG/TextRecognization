@@ -1,0 +1,3 @@
+Text Recognized is :  Senator ten Clender of comsand
+Character Error Rate: 0.20688631641436628
+Word Error Rate: 0.9420617005267118

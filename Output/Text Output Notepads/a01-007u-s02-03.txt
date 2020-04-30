@@ -1,0 +1,3 @@
+Text Recognized is :  the chaenge from Sir Roy welensny ,
+Character Error Rate: 0.1629268292682927
+Word Error Rate: 0.9258343634116193

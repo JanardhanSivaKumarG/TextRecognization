@@ -1,0 +1,3 @@
+Text Recognized is :  Rhodesia conterence - " London has beeen
+Character Error Rate: 0.19930222416048846
+Word Error Rate: 0.9320066334991708

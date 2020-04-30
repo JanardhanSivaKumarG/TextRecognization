@@ -1,0 +1,3 @@
+Text Recognized is :  opposition from the oh Negro senators of the
+Character Error Rate: 0.2023884349465745
+Word Error Rate: 0.937524870672503

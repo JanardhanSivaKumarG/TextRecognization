@@ -1,0 +1,3 @@
+Text Recognized is :  decvion , remaned with the Brtish bovon meut
+Character Error Rate: 0.2019774011299435
+Word Error Rate: 0.9350358422939068

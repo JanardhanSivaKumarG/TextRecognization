@@ -1,0 +1,3 @@
+Text Recognized is :  to sit . round the conference table
+Character Error Rate: 0.20161019792016102
+Word Error Rate: 0.9336452573373033

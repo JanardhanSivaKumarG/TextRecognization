@@ -1,0 +1,3 @@
+Text Recognized is :  It has aroused strag
+Character Error Rate: 0.20337902454574433
+Word Error Rate: 0.9373990306946688

@@ -1,0 +1,3 @@
+Text Recognized is :  National at Paw has of Nor I then Te hodesia
+Character Error Rate: 0.16789087093389296
+Word Error Rate: 0.9295212765957447

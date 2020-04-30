@@ -1,0 +1,3 @@
+Text Recognized is :  Most Labour
+Character Error Rate: 0.16710875331564987
+Word Error Rate: 0.9291736930860034

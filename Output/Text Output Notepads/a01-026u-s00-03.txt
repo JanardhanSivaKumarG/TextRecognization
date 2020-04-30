@@ -1,0 +1,3 @@
+Text Recognized is :  Northen Rhodesia " a future
+Character Error Rate: 0.20017873100983022
+Word Error Rate: 0.9326542161856254

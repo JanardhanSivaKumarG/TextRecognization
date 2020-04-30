@@ -1,0 +1,3 @@
+Text Recognized is :  suus Sreenfield telepucned no cief
+Character Error Rate: 0.19246861924686193
+Word Error Rate: 0.9335347432024169

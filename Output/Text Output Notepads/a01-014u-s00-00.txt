@@ -1,0 +1,3 @@
+Text Recognized is :  Sir Ray a muted Federal Parly "
+Character Error Rate: 0.18381344307270234
+Word Error Rate: 0.9340277777777778

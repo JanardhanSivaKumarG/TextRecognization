@@ -1,0 +1,3 @@
+Text Recognized is :  have no mowledge of secret negotiations "
+Character Error Rate: 0.1999259533506109
+Word Error Rate: 0.9343031440638198

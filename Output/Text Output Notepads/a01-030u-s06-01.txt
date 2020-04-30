@@ -1,0 +1,3 @@
+Text Recognized is :  spoerman sad Sir Ray had no right to
+Character Error Rate: 0.20302821748107364
+Word Error Rate: 0.9341186736474695

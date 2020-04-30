@@ -1,0 +1,3 @@
+Text Recognized is :  African Nadional Congess 100 o0o , will
+Character Error Rate: 0.181438127090301
+Word Error Rate: 0.9321314952279958

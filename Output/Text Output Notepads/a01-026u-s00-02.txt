@@ -1,0 +1,3 @@
+Text Recognized is :  thee have been secket negon ations on
+Character Error Rate: 0.19909502262443438
+Word Error Rate: 0.9329512893982808

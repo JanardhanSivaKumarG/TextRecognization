@@ -1,0 +1,3 @@
+Text Recognized is :  He sad Britain had an obligation to comoult
+Character Error Rate: 0.1981785063752277
+Word Error Rate: 0.934010152284264

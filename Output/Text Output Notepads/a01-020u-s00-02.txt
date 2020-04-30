@@ -1,0 +1,3 @@
+Text Recognized is :  which " had blown up
+Character Error Rate: 0.19923371647509577
+Word Error Rate: 0.9325920778318276

@@ -1,0 +1,3 @@
+Text Recognized is :  Dees South
+Character Error Rate: 0.20294393986846226
+Word Error Rate: 0.9373513084853291

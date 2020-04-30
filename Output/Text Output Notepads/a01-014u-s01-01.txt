@@ -1,0 +1,3 @@
+Text Recognized is :  last night
+Character Error Rate: 0.1862426995457495
+Word Error Rate: 0.9312602291325696

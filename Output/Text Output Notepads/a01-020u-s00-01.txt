@@ -1,0 +1,3 @@
+Text Recognized is :  ot Lancaster House despite the an " .
+Character Error Rate: 0.19878183831672203
+Word Error Rate: 0.9325842696629213
