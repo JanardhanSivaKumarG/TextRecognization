@@ -1,3 +1,0 @@
-Text Recognized is :  Sir Roy so violenthy
-Character Error Rate: 0.17974882260596547
-Word Error Rate: 0.9304174950298211

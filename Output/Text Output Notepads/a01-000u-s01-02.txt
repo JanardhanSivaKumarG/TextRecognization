@@ -1,3 +1,0 @@
-Text Recognized is :  ond he so to be bached by us Will
-Character Error Rate: 0.1388888888888889
-Word Error Rate: 0.9461077844311377

@@ -1,3 +1,0 @@
-Text Recognized is :  majority in Northern Te hodesia but the
-Character Error Rate: 0.17725258493353027
-Word Error Rate: 0.9282385834109972

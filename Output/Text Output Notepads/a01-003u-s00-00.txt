@@ -1,3 +1,0 @@
-Text Recognized is :  rhough they may gather some left wang
-Character Error Rate: 0.15358361774744028
-Word Error Rate: 0.935064935064935

@@ -1,3 +1,0 @@
-Text Recognized is :  nto existence they schould not now bet
-Character Error Rate: 0.16923076923076924
-Word Error Rate: 0.927007299270073

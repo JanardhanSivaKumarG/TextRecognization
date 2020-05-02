@@ -1,3 +1,0 @@
-Text Recognized is :  demonstations "
-Character Error Rate: 0.18691588785046728
-Word Error Rate: 0.929866036249015

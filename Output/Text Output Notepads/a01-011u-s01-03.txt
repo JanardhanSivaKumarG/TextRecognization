@@ -1,3 +1,0 @@
-Text Recognized is :  Colamal Secretary , hr lain Hac leod '
-Character Error Rate: 0.17946877243359655
-Word Error Rate: 0.9301270417422868

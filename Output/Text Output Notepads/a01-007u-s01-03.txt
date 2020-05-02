@@ -1,3 +1,0 @@
-Text Recognized is :  Labour has to have on adequate nber
-Character Error Rate: 0.16114285714285714
-Word Error Rate: 0.9333333333333333

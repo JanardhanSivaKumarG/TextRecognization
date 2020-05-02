@@ -1,3 +1,0 @@
-Text Recognized is :  to Macleed went an with " the conferonce
-Character Error Rate: 0.19852941176470587
-Word Error Rate: 0.9297994269340975

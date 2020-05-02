@@ -1,3 +1,0 @@
-Text Recognized is :  his sull plans to the Africaus on a libeats
-Character Error Rate: 0.19915478077126256
-Word Error Rate: 0.9315436241610738

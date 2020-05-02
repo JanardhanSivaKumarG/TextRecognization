@@ -1,3 +1,0 @@
-Text Recognized is :  Droectorates future
-Character Error Rate: 0.1844018506278916
-Word Error Rate: 0.9332777314428691

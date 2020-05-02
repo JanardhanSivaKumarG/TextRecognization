@@ -1,3 +1,0 @@
-Text Recognized is :  Party.
-Character Error Rate: 0.1989089383130508
-Word Error Rate: 0.9319872476089267

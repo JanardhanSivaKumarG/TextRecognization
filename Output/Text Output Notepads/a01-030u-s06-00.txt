@@ -1,3 +1,0 @@
-Text Recognized is :  Mr janes Callaglon Labour a colonial
-Character Error Rate: 0.20320669222725687
-Word Error Rate: 0.933716305788776

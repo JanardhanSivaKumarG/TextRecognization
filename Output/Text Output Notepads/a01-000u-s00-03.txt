@@ -1,3 +1,0 @@
-Text Recognized is :  " M a somorronw 2
-Character Error Rate: 0.136
-Word Error Rate: 0.9791666666666666

@@ -1,3 +1,0 @@
-Text Recognized is :  sentiment would o il favour the abok tion
-Character Error Rate: 0.1658291457286432
-Word Error Rate: 0.9330143540669856

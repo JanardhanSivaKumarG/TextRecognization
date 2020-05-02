@@ -1,3 +1,0 @@
-Text Recognized is :  Narthern Rhodesia "o a member of the Federation
-Character Error Rate: 0.19806201550387598
-Word Error Rate: 0.9329745596868885

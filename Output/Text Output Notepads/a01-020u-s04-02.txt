@@ -1,3 +1,0 @@
-Text Recognized is :  Hause of Chiefs
-Character Error Rate: 0.1984732824427481
-Word Error Rate: 0.9328493647912885

@@ -1,3 +1,0 @@
-Text Recognized is :  at Cheamers
-Character Error Rate: 0.19861030689056167
-Word Error Rate: 0.9325513196480938

@@ -1,3 +1,0 @@
-Text Recognized is :  Government Bill whch brought life peers
-Character Error Rate: 0.1704781704781705
-Word Error Rate: 0.9340369393139841

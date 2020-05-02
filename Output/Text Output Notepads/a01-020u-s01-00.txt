@@ -1,3 +1,0 @@
-Text Recognized is :  He has now . eevealed
-Character Error Rate: 0.1990265008112493
-Word Error Rate: 0.9326460481099657

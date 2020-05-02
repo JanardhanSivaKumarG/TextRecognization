@@ -1,3 +1,0 @@
-Text Recognized is :  , ns0 1oo membes , and tr Marry Nubula '
-Character Error Rate: 0.17906574394463667
-Word Error Rate: 0.9319429198682766

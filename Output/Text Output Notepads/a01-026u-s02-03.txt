@@ -1,3 +1,0 @@
-Text Recognized is :  the ween cend for talks with ho mac milon
-Character Error Rate: 0.1994470774091627
-Word Error Rate: 0.9321695760598504

@@ -1,3 +1,0 @@
-Text Recognized is :  Yesterday Sir Ray , chief ade tr
-Character Error Rate: 0.18864468864468864
-Word Error Rate: 0.9304482225656878

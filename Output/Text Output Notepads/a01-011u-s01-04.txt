@@ -1,3 +1,0 @@
-Text Recognized is :  t inststing on a poney of change
-Character Error Rate: 0.18092566619915848
-Word Error Rate: 0.9317375886524822

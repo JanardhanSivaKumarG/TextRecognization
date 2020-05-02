@@ -1,3 +1,0 @@
-Text Recognized is :  The negro " ,s Robot "
-Character Error Rate: 0.20460199004975124
-Word Error Rate: 0.9388801261829653

@@ -1,3 +1,0 @@
-Text Recognized is :  be to see thee to no racal disenmnation
-Character Error Rate: 0.20618556701030927
-Word Error Rate: 0.9395921508272412

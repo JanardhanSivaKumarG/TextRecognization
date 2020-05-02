@@ -1,3 +1,0 @@
-Text Recognized is :  defended the apponntment of a Nego as
-Character Error Rate: 0.20096774193548386
-Word Error Rate: 0.9349959116925592

@@ -1,3 +1,0 @@
-Text Recognized is :  projects
-Character Error Rate: 0.2055122828040743
-Word Error Rate: 0.9403495440729484

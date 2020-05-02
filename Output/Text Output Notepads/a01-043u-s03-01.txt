@@ -1,3 +1,0 @@
-Text Recognized is :  weaver of New york
-Character Error Rate: 0.20494590417310665
-Word Error Rate: 0.9388475107800862

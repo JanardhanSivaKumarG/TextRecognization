@@ -1,3 +1,0 @@
-Text Recognized is :  The " orthern
-Character Error Rate: 0.2002664298401421
-Word Error Rate: 0.9330332020258864

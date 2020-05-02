@@ -1,3 +1,0 @@
-Text Recognized is :  said ur Nnumbula
-Character Error Rate: 0.18562091503267975
-Word Error Rate: 0.93239901071723

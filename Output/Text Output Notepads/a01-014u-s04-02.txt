@@ -1,3 +1,0 @@
-Text Recognized is :  a report on a ns talk we in tr Mac we nan
-Character Error Rate: 0.19708454810495626
-Word Error Rate: 0.9327917282127031

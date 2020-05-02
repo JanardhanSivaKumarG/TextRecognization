@@ -1,3 +1,0 @@
-Text Recognized is :  baycatting the London lakks on the
-Character Error Rate: 0.18285331547220363
-Word Error Rate: 0.9339542760372566

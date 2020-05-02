@@ -1,3 +1,0 @@
-Text Recognized is :  t to be made at a meeting af Labour
-Character Error Rate: 0.08411214953271028
-Word Error Rate: 0.9880952380952381

@@ -1,3 +1,0 @@
-Text Recognized is :  to diocuss the frction of a proposed
-Character Error Rate: 0.19807692307692307
-Word Error Rate: 0.9335365853658537

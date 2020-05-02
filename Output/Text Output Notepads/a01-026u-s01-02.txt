@@ -1,3 +1,0 @@
-Text Recognized is :  raycotled by the two mam settlers pahers-
-Character Error Rate: 0.20085653104925053
-Word Error Rate: 0.9327183939229517

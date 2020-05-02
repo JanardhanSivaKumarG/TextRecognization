@@ -1,3 +1,0 @@
-Text Recognized is :  welewsny Prime Minister of the central
-Character Error Rate: 0.19861337683523655
-Word Error Rate: 0.9329896907216495

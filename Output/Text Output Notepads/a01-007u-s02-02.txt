@@ -1,3 +1,0 @@
-Text Recognized is :  have agueed to get together to face
-Character Error Rate: 0.16380182002022245
-Word Error Rate: 0.9231754161331626

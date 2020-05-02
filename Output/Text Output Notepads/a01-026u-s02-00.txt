@@ -1,3 +1,0 @@
-Text Recognized is :  But representenver of Sir Ray
-Character Error Rate: 0.19892250310816412
-Word Error Rate: 0.9328788673308862

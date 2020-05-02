@@ -1,3 +1,0 @@
-Text Recognized is :  meet an London today to dacuss a common
-Character Error Rate: 0.17880258899676377
-Word Error Rate: 0.9312820512820513

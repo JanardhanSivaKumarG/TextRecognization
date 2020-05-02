@@ -1,3 +1,0 @@
-Text Recognized is :  demed in the conmons a last night that
-Character Error Rate: 0.20027624309392264
-Word Error Rate: 0.9334889148191365

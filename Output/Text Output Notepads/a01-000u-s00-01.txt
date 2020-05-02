@@ -1,3 +1,0 @@
-Text Recognized is :  nominating any more Labour life Paers
-Character Error Rate: 0.08450704225352113
-Word Error Rate: 0.9824561403508771

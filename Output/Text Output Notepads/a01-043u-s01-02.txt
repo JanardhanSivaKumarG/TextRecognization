@@ -1,3 +1,0 @@
-Text Recognized is :  mo Hamoing nser
-Character Error Rate: 0.20378690629011553
-Word Error Rate: 0.936966246441643

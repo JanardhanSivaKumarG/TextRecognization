@@ -1,3 +1,0 @@
-Text Recognized is :  " I
-Character Error Rate: 0.20120345994734862
-Word Error Rate: 0.9337148307105388

@@ -1,3 +1,0 @@
-Text Recognized is :  " we wout to dscuss what to
-Character Error Rate: 0.1861057998725303
-Word Error Rate: 0.9307568438003221

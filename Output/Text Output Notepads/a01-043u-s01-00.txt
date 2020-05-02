@@ -1,3 +1,0 @@
-Text Recognized is :  PRESDENT To - a KENNEDY . today
-Character Error Rate: 0.20248203788373612
-Word Error Rate: 0.9341614906832298

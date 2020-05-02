@@ -1,3 +1,0 @@
-Text Recognized is :  delay progess ,e the talks bu retusing
-Character Error Rate: 0.20237691001697794
-Word Error Rate: 0.934997847610848

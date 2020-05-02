@@ -1,3 +1,0 @@
-Text Recognized is :  meetrg
-Character Error Rate: 0.2006854531607007
-Word Error Rate: 0.9331087584215592

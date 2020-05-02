@@ -1,3 +1,0 @@
-Text Recognized is :  African delegates e studying
-Character Error Rate: 0.19770344483275087
-Word Error Rate: 0.93173198482933

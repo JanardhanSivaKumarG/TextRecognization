@@ -1,3 +1,0 @@
-Text Recognized is :  of members
-Character Error Rate: 0.16252821670428894
-Word Error Rate: 0.932761087267525

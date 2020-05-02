@@ -1,3 +1,0 @@
-Text Recognized is :  tr hae leod was nat at the weern - end
-Character Error Rate: 0.19931271477663232
-Word Error Rate: 0.9329150579150579

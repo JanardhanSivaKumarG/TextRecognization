@@ -1,3 +1,0 @@
-Text Recognized is :  resme today
-Character Error Rate: 0.200990099009901
-Word Error Rate: 0.9339464882943144

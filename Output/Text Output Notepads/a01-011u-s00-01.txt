@@ -1,3 +1,0 @@
-Text Recognized is :  the ted National Iderendence Party
-Character Error Rate: 0.17040358744394618
-Word Error Rate: 0.928652321630804
