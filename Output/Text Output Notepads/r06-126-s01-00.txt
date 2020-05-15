@@ -1,0 +1,3 @@
+Text Recognized is :  It was
+Character Error Rate: 23.982815911288103
+Word Error Rate: 4.225148197897482

@@ -1,0 +1,3 @@
+Text Recognized is :  Aid You notree
+Character Error Rate: 23.994739416888507
+Word Error Rate: 4.250121739963447
