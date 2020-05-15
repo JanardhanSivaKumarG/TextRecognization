@@ -1,4 +1,4 @@
-# Processing of Calligraphy Text to Digital Text
+# Digitization of Handwritten Text
 
 
 &nbsp;
@@ -90,8 +90,8 @@ We pass each image into the three different layers,
 
 <p align="center">
     For the Predicted Output, we calculated the CER and WER <br />
-    <b><u>Character Error Rate:</u> 0.23982815911288102 <br />
-        <u>Word Error Rate:</u> 0.9577485180210252 </b>
+    <b><u>Character Error Rate:</u> 23.982815911288103 <br />
+        <u>Word Error Rate:</u> 4.225148197897482 </b>
 </p>
 
 &nbsp;
@@ -101,8 +101,8 @@ Finally, we will save the predicted output, CER and WER to the notepad.
 <p align="center">
     The Output saved in the notepad file for the given input image is <br />
     <b> Text Recognized is :  It was <br />
-        Character Error Rate: 0.23982815911288102 <br />
-        Word Error Rate: 0.9577485180210252 <br />
+        Character Error Rate: 23.982815911288103 <br />
+        Word Error Rate: 4.225148197897482 <br />
 </p>
 
 
